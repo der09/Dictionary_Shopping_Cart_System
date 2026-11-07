@@ -6,22 +6,15 @@
 from datetime import date
 date = date.today()
 # dictionary of products 
-# products = {
-#     "Chips": 2.99, 
-#     "Apple": 2.50, 
-#     "Candy": 1.50, 
-#     "Cookie": 3.00, 
-#     "Water": 1.00, 
-#     "Coffee": 5.00
-#     }
-
 products = {
-    "Carrot": 0.30,
-    "Yogurt": 3.49,
-    "Garlic": 0.75,
-    "Cereal": 4.99, 
-    "Cheese": 3.99
-    }
+     "Chips": 2.99, 
+     "Apple": 2.50, 
+     "Candy": 1.50, 
+     "Cookie": 3.00, 
+     "Water": 1.00, 
+     "Coffee": 5.00
+     }
+
 
 # empty dictionary to add in based off user 
 shopping_cart = {}
